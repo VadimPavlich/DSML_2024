@@ -18,4 +18,4 @@ dependencies:
   - pip:
     - aquarel
 
-prefix: /<specify path>/envs/DSML_env
+prefix: /Users/vadimpavlichenko/Library/r-miniconda-arm64/envs/DSML_env
